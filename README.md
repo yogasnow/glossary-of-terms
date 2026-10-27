@@ -6,10 +6,10 @@
 
 - [Музыка](music/README.md) — короткие определения с визуальной карточкой.
 - [IT и программирование](it/README.md) — базовые понятия на примере учебного маршрута.
-- [Словарь соответствий](correspondences/README.md) — записи из одноимённого Telegram-топика: продукты → состав, ключ → значение, ввод → обработка → вывод. Примеры на [Python](correspondences/foods.py) и [TypeScript (папайя)](correspondences/papaya.ts) и [TypeScript (банан)](correspondences/banana.ts).
+- [Словарь соответствий](correspondences/README.md) — учебные соответствия: продукты → состав, ключ → значение, ввод → обработка → вывод. Примеры на [Python](correspondences/foods.py) и [TypeScript (папайя)](correspondences/papaya.ts) и [TypeScript (банан)](correspondences/banana.ts).
 
 **Статус:** публичный учебный материал, не медицинская рекомендация. Описания состава продуктов качественные и зависят от сорта и порции. [Примеры кода доступны по MIT](CODE-LICENSE.md); изображения и тексты словаря лицензией не охвачены.
 
 ## Как продолжать
 
-**Готово:** базовый словарь понятий, Python-таблица продуктов и два урока на TypeScript — папайя и банан. **Маршрут:** сначала [ключ и значение](correspondences/README.md), затем [Python-пример](correspondences/foods.py), после него [папайя](correspondences/papaya.ts) и [банан](correspondences/banana.ts) на TypeScript. **Следующий шаг:** одна новая запись из Telegram-топика → сверка названия и фактов → запускаемый код → короткое объяснение входа, обработки и вывода.
+**Готово:** базовый словарь понятий, Python-таблица продуктов и два урока на TypeScript — папайя и банан. **Маршрут:** сначала [ключ и значение](correspondences/README.md), затем [Python-пример](correspondences/foods.py), после него [папайя](correspondences/papaya.ts) и [банан](correspondences/banana.ts) на TypeScript. **Следующий шаг:** одна новая запись → сверка названия и фактов → запускаемый код → короткое объяснение входа, обработки и вывода.
